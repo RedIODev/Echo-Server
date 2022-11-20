@@ -1,18 +1,33 @@
-## Getting Started
+## Echo Server
+This project shows a simple implementation of an echo server in Java using Sockets.<br>
+The project is designed to make use of appropriate Java features whenever possible to demonstrate their use in natural code instead of fabricated examples.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+---
 
-## Folder Structure
+## Content
+- Socket and ServerSocket
+- Concurrency 
+    - Thread
+    - Runnable
+    - synchronized blocks
+- Exception handling
+    - throws
+    - try catch finally
+- Static vs. Non-Static
+- Visibility
+- Nested Classes
+- Functional Interfaces
+    - Method references
+- Switch expressions
+- Resource management
+    - AutoClosable
+    - try with resources
+- Packages
+- JavaDoc
+    - HTML tags
+    - JavaDoc tags
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Socket and ServerSocket
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
